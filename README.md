@@ -1,4 +1,5 @@
 # Interview Prep
 
 ## Heap and Stack memory for JVM.
-![./screenshots/jvm.png]
+![jvm]
+[jvm]: ./screenshots/jvm.png
