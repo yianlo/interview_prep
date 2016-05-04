@@ -13,4 +13,4 @@
 * Items are drawn from a dense universe => BUCKET SORT
 * Desire to write as little code as possible => INSERTION SORT
 
-[^1]: source: http://stackoverflow.com/questions/220044/which-sort-algorithm-works-best-on-mostly-sorted-data
+source: http://stackoverflow.com/questions/220044/which-sort-algorithm-works-best-on-mostly-sorted-data
