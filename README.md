@@ -2,4 +2,4 @@
 
 ## Heap and Stack memory for JVM.
 ![jvm]
-[jvm]: ./screenshot/jvm.png
+[jvm]: ./screenshots/jvm.png
